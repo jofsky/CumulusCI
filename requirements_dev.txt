@@ -12,7 +12,7 @@ Sphinx==3.3.1
 testfixtures==6.15.0
 tox==3.20.1
 twine==3.2.0
-typeguard==2.10.0
+typeguard==2.13.0
 vcrpy==4.1.1
 wheel==0.36.0
 factory-boy==3.1.0
